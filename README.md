@@ -6,3 +6,5 @@ The system’s main goal is to manage the following modules:
     •	Flight information 
     •	Reservations and cancellations
     •	Report creation 
+    
+This solution was implemented using ASP.NET technologies and sql server to manage the system's database.
